@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.hero{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#image{
+	width: 400px;
+	height:200px;
+}
+.heroimg{
+	object-fit: cover;
+}
+.text{
+	dispay: flex;
+	justify-content: center;
+	text-align: center;
+	margin-left: 20px;
+}
+.text>botton>a{
+	background-color: red;
+	color: white;
+	padding: 5px;
+	text-decoration: none;
+}
