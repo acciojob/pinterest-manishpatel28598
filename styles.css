@@ -7,6 +7,7 @@
 #image{
 	width: 400px;
 	height:200px;
+	object-fit: cover;
 }
 .heroimg{
 	object-fit: cover;
